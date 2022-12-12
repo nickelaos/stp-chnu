@@ -7,9 +7,18 @@ class Category(models.Model):
     category = models.CharField("Category", max_length=250, help_text="Max length 250 symbols")
     slug = models.SlugField("Slug")
 
+    objects = models.Manager()
+
     class Meta:
         verbose_name = "Category for publication"
         verbose_name_plural = "Category for publications"
+
+    def get_absolute_url(self):
+        try:
+            url = reverse('articles-category-list', kwargs={'slug': self.slug})
+        except:
+            url = "/"
+        return url
 
     def __str__(self):
         return self.category
@@ -39,7 +48,7 @@ class Article(models.Model):
             url = reverse(
                 'news-detail',
                 kwargs={
-                    "yaer": self.pub_date.strftime("%Y"),
+                    "year": self.pub_date.strftime("%Y"),
                     "month": self.pub_date.strftime("%m"),
                     "day": self.pub_date.strftime("%d"),
                     "slug": self.slug
