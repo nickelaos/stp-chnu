@@ -1,0 +1,11 @@
+C:\Users\dmytr\source\repos\CalcService\CalcClient\bin\Debug\CalcClient.exe.config
+C:\Users\dmytr\source\repos\CalcService\CalcClient\bin\Debug\CalcClient.exe
+C:\Users\dmytr\source\repos\CalcService\CalcClient\bin\Debug\CalcClient.pdb
+C:\Users\dmytr\source\repos\CalcService\CalcClient\obj\Debug\CalcClient.csproj.AssemblyReference.cache
+C:\Users\dmytr\source\repos\CalcService\CalcClient\obj\Debug\CalcClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmytr\source\repos\CalcService\CalcClient\obj\Debug\CalcClient.csproj.CoreCompileInputs.cache
+C:\Users\dmytr\source\repos\CalcService\CalcClient\obj\Debug\CalcClient.exe
+C:\Users\dmytr\source\repos\CalcService\CalcClient\obj\Debug\CalcClient.pdb
+C:\Users\dmytr\source\repos\CalcService\CalcClient\bin\Debug\CalcInterfaces.dll
+C:\Users\dmytr\source\repos\CalcService\CalcClient\bin\Debug\CalcInterfaces.pdb
+C:\Users\dmytr\source\repos\CalcService\CalcClient\obj\Debug\CalcClient.csproj.CopyComplete
