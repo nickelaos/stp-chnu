@@ -1,0 +1,7 @@
+C:\Users\dmytr\source\repos\Customer Service\Customer Service\bin\Customer Service.dll.config
+C:\Users\dmytr\source\repos\Customer Service\Customer Service\bin\Customer Service.dll
+C:\Users\dmytr\source\repos\Customer Service\Customer Service\bin\Customer Service.pdb
+C:\Users\dmytr\source\repos\Customer Service\Customer Service\obj\Debug\Customer Service.csproj.AssemblyReference.cache
+C:\Users\dmytr\source\repos\Customer Service\Customer Service\obj\Debug\Customer Service.csproj.CoreCompileInputs.cache
+C:\Users\dmytr\source\repos\Customer Service\Customer Service\obj\Debug\Customer Service.dll
+C:\Users\dmytr\source\repos\Customer Service\Customer Service\obj\Debug\Customer Service.pdb
