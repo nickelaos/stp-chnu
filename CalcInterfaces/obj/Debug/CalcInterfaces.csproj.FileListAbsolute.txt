@@ -1,6 +1,0 @@
-C:\Users\dmytr\source\repos\CalcService\CalcInterfaces\bin\Debug\CalcInterfaces.dll
-C:\Users\dmytr\source\repos\CalcService\CalcInterfaces\bin\Debug\CalcInterfaces.pdb
-C:\Users\dmytr\source\repos\CalcService\CalcInterfaces\obj\Debug\CalcInterfaces.csproj.AssemblyReference.cache
-C:\Users\dmytr\source\repos\CalcService\CalcInterfaces\obj\Debug\CalcInterfaces.csproj.CoreCompileInputs.cache
-C:\Users\dmytr\source\repos\CalcService\CalcInterfaces\obj\Debug\CalcInterfaces.dll
-C:\Users\dmytr\source\repos\CalcService\CalcInterfaces\obj\Debug\CalcInterfaces.pdb
